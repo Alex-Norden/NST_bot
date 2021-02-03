@@ -6,7 +6,7 @@ Telegram bot для переноса стиля с одного изображе
 - "A Neural Algorithm of Artistic Style" (http://arxiv.org/abs/1508.06576)
 - "Multi-style Generative Network for Real-time Transfer" (https://arxiv.org/abs/1703.06953)
 
-Для деплоя использовался сервис Heroku [![Deploy](https://www.herokucdn.com/deploy/button.svg)]
+Для деплоя использовался сервис Heroku ![Deploy](https://www.herokucdn.com/deploy/button.svg)
 
 Для запуска бота необходимо задать переменные окружения:
 - API_TOKEN - токен бота, полученный от [@BotFather](https://t.me/BotFather)
@@ -31,8 +31,8 @@ Telegram bot для переноса стиля с одного изображе
 
 Дополнительные ресурсы:
 
-https://github.com/pytorch/examples
-https://github.com/pytorch/tutorials/blob/master/advanced_source/neural_style_tutorial.py
-https://github.com/zhanghang1989/PyTorch-Multi-Style-Transfer
-https://core.telegram.org/
-https://docs.aiogram.dev/en/latest/
+- https://github.com/pytorch/examples
+- https://github.com/pytorch/tutorials/blob/master/advanced_source/neural_style_tutorial.py
+- https://github.com/zhanghang1989/PyTorch-Multi-Style-Transfer
+- https://core.telegram.org/
+- https://docs.aiogram.dev/en/latest/
