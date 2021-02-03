@@ -6,7 +6,7 @@ Telegram bot для переноса стиля с одного изображе
 - "A Neural Algorithm of Artistic Style" (http://arxiv.org/abs/1508.06576)
 - "Multi-style Generative Network for Real-time Transfer" (https://arxiv.org/abs/1703.06953)
 
-Для деплоя использовался сервис Heroku ![Deploy](https://www.herokucdn.com/deploy/button.svg)
+Для деплоя использовался сервис Heroku [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Alex-Norden/NST_bot)
 
 Для запуска бота необходимо задать переменные окружения:
 - TELEGRAM_API_TOKEN - токен бота, полученный от [@BotFather](https://t.me/BotFather)
