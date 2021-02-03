@@ -1,0 +1,41 @@
+{
+  "name": "NST_bot",
+  "description": "Neural Style Transfer Bot For Telegram. Please read the README carefully.",
+  "keywords": [
+    "Heroku",
+    "NST",
+    "pytorch",
+    "Telegram",
+    "aiogram"
+  ],
+  "repository": "https://github.com/Alex-Norden/NST_bot",
+  "env": {
+    "TELEGRAM_API_TOKEN": {
+    "required": true
+    },
+    "WEBHOOK_HOST": {
+    "required": true
+    },
+    "WEBHOOK_PATH": {
+    "required": true
+    },
+    "WEBAPP_HOST": {
+    "required": true
+    },
+    "PORT": {
+    "required": false
+    },
+    "ADMIN_ID": {
+    "required": true
+    },
+    "TARGET_SIZE1": {
+    "required": true
+    },
+    "TARGET_SIZE2": {
+    "required": true
+    },
+    "NUM_STEPS": {
+    "required": false
+    }
+  }
+}
